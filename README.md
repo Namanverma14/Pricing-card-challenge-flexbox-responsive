@@ -1,2 +1,2 @@
-# pricing-card-challenge-flexbox-responsive
+# Pricing-card-challenge-flexbox-responsive
 An implementation of frontend mentor code challenge
